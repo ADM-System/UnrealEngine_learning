@@ -1,3 +1,0 @@
-C:\Users\utente\Documents\Unreal Projects\porgetto_AAA\Source\porgetto_AAA\porgetto_AAA.Build.cs
-C:\Users\utente\Documents\Unreal Projects\porgetto_AAA\Source\porgetto_AAA.Target.cs
-C:\Users\utente\Documents\Unreal Projects\porgetto_AAA\Source\porgetto_AAAEditor.Target.cs
