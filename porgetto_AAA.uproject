@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.20",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "porgetto_AAA",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
